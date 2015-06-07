@@ -1,0 +1,1 @@
+include ':app', ':ibmbluemix', ':ibmcloudcode', ':ibmdata', ':ibmfilesync', ':ibmlocation', ':ibmpush', ':ThinkGear', ':cps2-java-api-java-7'

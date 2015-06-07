@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('cps2-java-api-java-7.jar'))

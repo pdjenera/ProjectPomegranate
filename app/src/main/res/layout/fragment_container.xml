@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:id="@+id/scrollView1"
+        android:fadeScrollbars="true"
+        android:scrollbars="vertical"
+        android:layout_height="100dp"
+        android:layout_weight="1.00">
+
+        <TextView android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:text="TextView"
+            android:layout_height="fill_parent">
+        </TextView>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal">
+        <ProgressBar
+            android:id="@+id/circularProgressbar"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:indeterminate="false"
+            android:progress="0"
+            android:max="100"
+            android:secondaryProgress="100"
+            android:progressDrawable="@drawable/circular"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="20dp"/>
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:id="@+id/numberText"
+            android:text="20"
+            android:textSize="50dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="85dp"/>
+
+    </RelativeLayout>
+
+    <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/button1" android:text="Connect"></Button>
+    <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/button2" android:text="Disconnect"></Button>
+</LinearLayout>

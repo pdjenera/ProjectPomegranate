@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjectPomegranate.iml" filepath="$PROJECT_DIR$/ProjectPomegranate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThinkGear/ThinkGear.iml" filepath="$PROJECT_DIR$/ThinkGear/ThinkGear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cps2-java-api-java-7/cps2-java-api-java-7.iml" filepath="$PROJECT_DIR$/cps2-java-api-java-7/cps2-java-api-java-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ibmbluemix/ibmbluemix.iml" filepath="$PROJECT_DIR$/ibmbluemix/ibmbluemix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ibmcloudcode/ibmcloudcode.iml" filepath="$PROJECT_DIR$/ibmcloudcode/ibmcloudcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ibmdata/ibmdata.iml" filepath="$PROJECT_DIR$/ibmdata/ibmdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ibmfilesync/ibmfilesync.iml" filepath="$PROJECT_DIR$/ibmfilesync/ibmfilesync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ibmlocation/ibmlocation.iml" filepath="$PROJECT_DIR$/ibmlocation/ibmlocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ibmpush/ibmpush.iml" filepath="$PROJECT_DIR$/ibmpush/ibmpush.iml" />
+    </modules>
+  </component>
+</project>
